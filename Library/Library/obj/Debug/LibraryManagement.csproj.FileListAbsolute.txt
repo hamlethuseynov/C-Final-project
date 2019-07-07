@@ -5,3 +5,15 @@ C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\ob
 C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\obj\Debug\Library.exe
 C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\obj\Debug\Library.pdb
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\Library.exe.config
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\Library.exe
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\Library.pdb
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\obj\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\LibraryManagement\Library\Library\obj\Debug\Library.Forms.Dashboard.resources
